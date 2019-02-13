@@ -10,3 +10,5 @@ example:
 Confirm your Xcode.app file name&path
 
 按照真实路径名称修改  XCODE_APP_PATH 参数
+
+Files base on: Xcode9.2
