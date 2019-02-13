@@ -5,7 +5,7 @@ echo "需要使用sudo命令调用此脚本。 Use sudo command";
 echo "example:"
 echo "          sudo ./updatexcode_add_libstdc++.sh"
 
-echo "please confirm your Xcode.app file name&path"
+echo "Confirm your Xcode.app file name&path"
 echo "调用脚本前请确认 Xcode.app的文件名及路径"
 
 XCODE_APP_PATH="/Applications/Xcode.app";
